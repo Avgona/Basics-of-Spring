@@ -1,0 +1,10 @@
+com\spring\basics\controller\CitizenController.class
+com\spring\basics\DAO\Interface\CitizenDAO.class
+com\spring\basics\Service\Implementation\CitizenServiceImpl.class
+com\spring\basics\Service\Interface\CitizenService.class
+com\spring\basics\config\SpringServlet.class
+com\spring\basics\Aspect\Logging.class
+com\spring\basics\DAO\Implementation\CitizenDAOImpl.class
+com\spring\basics\main\Main.class
+com\spring\basics\entity\Citizen.class
+com\spring\basics\config\SpringHibernateConfigs.class

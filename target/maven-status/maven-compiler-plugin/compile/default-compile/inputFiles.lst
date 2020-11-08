@@ -1,0 +1,10 @@
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\main\Main.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\config\SpringServlet.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\DAO\Interface\CitizenDAO.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\Service\Implementation\CitizenServiceImpl.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\entity\Citizen.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\Service\Interface\CitizenService.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\Aspect\Logging.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\controller\CitizenController.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\DAO\Implementation\CitizenDAOImpl.java
+C:\Users\HP\IdeaProjects\Basics\src\main\java\com\spring\basics\config\SpringHibernateConfigs.java
